@@ -10,7 +10,6 @@ const Cards = (props) => {
   if (!confirmed) {
     return <h1>Loading...</h1>
   }
-  console.log(props);
 
   return (
     <div className={styles.container}>
