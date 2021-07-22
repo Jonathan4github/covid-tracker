@@ -1,6 +1,13 @@
 # COVID 19 TRACKER
 
 A simple react app that provides reports on COVID-19.
+https://jonathan4github.github.io/covid-tracker/
+
+### Built with:
+
+- React
+- Chart.js
+- MaterialUI
 
 ### Installing / Getting started
 
